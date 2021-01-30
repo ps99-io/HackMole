@@ -5,11 +5,11 @@ import numpy as np
 from flask_cors import CORS
 app=Flask(__name__)
 CORS(app)
-model2=joblib.load("review.pkl")
+model2=joblib.load("ml-api/review.pkl")
 
-model=joblib.load("startup.pkl")
+model=joblib.load("ml-api/startup.pkl")
 
-loaded_model=pickle.load(open("finalized_model.sav","rb"))
+loaded_model=pickle.load(open("ml-api/finalized_model.sav","rb"))
 
 @app.route("/success",methods=['POST','GET'])
 def isdbstartups():
@@ -51,7 +51,7 @@ def reviews():
    
 
 
-loaded_model=pickle.load(open("finalized_model.sav","rb"))
+loaded_model=pickle.load(open("ml-api/finalized_model.sav","rb"))
 
 @app.route("/loan",methods=['GET','POST'])
 def home():
