@@ -27,7 +27,7 @@ def isdbstartupss():
         return 0
 
 @app.route("/review",methods=['POST','GET'])
-def reviewsss():
+def reviews():
     data=request.form
 
     if request.method=='POST':
@@ -54,7 +54,7 @@ def reviewsss():
 loaded_model=pickle.load(open("ml-api/finalized_model.sav","rb"))
 
 @app.route("/loan",methods=['GET','POST'])
-def homess():
+def homes():
     new=''
     if request.method=='POST':
          
