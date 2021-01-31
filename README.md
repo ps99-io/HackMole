@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 - [Video Explanation](https://youtu.be/iNWE-4-KpEc)
-- [PPT](https://docs.google.com/presentation/d/1lJjnF00vz3-gPmPiG_fDHea3KGzQDuTpSEHj1W-evRE/edit?usp=sharing)
+- [PPT](https://docs.google.com/presentation/d/1y6VTdSG_IHBW3GVgZFqK52Y9Hx8wdYOGO8a3BjBe8a0/edit#slide=id.p1)
 
 ## ❓ Problem Statement
 > Entrepreneurs and Investors face lot of dilemma before starting a startup. As we all know that starting a venture is not an easy task, there are lot of challenges associated with it. To help our investors to overcome this dilemma we have designed this website. We have used various ml model so that they can know beforehand whether the startup they are starting would be beneficial for them or not.
