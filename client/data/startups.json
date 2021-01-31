@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "image":"https://m.economictimes.com/thumb/msid-76184232,width-1200,height-900,resizemode-4,imgsize-436023/14.jpg",
+        "title":"Ola Electric",
+        "description":"Ola Electric is a product by Ola, one of the world’s largest ride-hailing companies. It aims to place 10,000 e-rickshaws in service over the next 12 months.",
+        "workType":"Mobility",
+        "location":"Bangalore, Karnataka, , India",
+        "contactmail":"contact@ola.com"
+    },
+     {
+         "id": 2,
+        "image":"https://miro.medium.com/max/3200/1*9NBb4FTyHjGk96k-bchyWg.jpeg",
+        "title":"Paytm Money",
+        "description":"Bengaluru based Paytm Money offers investments in direct plans of mutual funds from all AMCs in India  from all AMCs in India.",
+        "workType":"Food",
+        "location":"Bangalore, India",
+        "contactmail":"contact@paytm.com"
+    }, {
+        "id": 3,
+        "image":"https://www.aitoc.com/blog/wp-content/uploads/2019/08/How-to-Improve-Abandoned-Carts.png",
+        "title":"Ninja Cart",
+        "description":"Ninjacart is a company that is aiming to disrupt the fresh produce supply chain. Ninjacart is a company that is aiming to disrupt the fresh produce supply chain.",
+        "workType":"Food",
+        "location":"Bangalore, India",
+        "contactmail":"contact@swiggy.com"
+    }, {
+        "id": 4,
+        "image":"https://www.searchpng.com/wp-content/uploads/2019/03/Swiggy-PNG-Logo.png",
+        "title":"Swiggy",
+        "description":"Swiggy is India's largest and highest-valued online food ordering and delivery platform founded in 2014.",
+        "workType":"Food",
+        "location":"Bangalore, India",
+        "contactmail":"contact@swiggy.com"
+    }, {
+        "id": 5,
+        "image":"https://www.searchpng.com/wp-content/uploads/2019/03/Swiggy-PNG-Logo.png",
+        "title":"Swiggy",
+        "description":"Swiggy is India's largest and highest-valued online food ordering and delivery platform founded in 2014.",
+        "workType":"Food",
+        "location":"Bangalore, India",
+        "contactmail":"contact@swiggy.com"
+    }, {
+        "id": 6,
+        "image":"https://www.searchpng.com/wp-content/uploads/2019/03/Swiggy-PNG-Logo.png",
+        "title":"Swiggy",
+        "description":"Swiggy is India's largest and highest-valued online food ordering and delivery platform founded in 2014.",
+        "workType":"Food",
+        "location":"Bangalore, India",
+        "contactmail":"contact@swiggy.com"
+    }
+]
