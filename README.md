@@ -1,5 +1,9 @@
 # Internet startups Database
 
+## 🔗 Links
+- [Video Explanation](https://vimeo.com/501425359)
+- [PPT](https://docs.google.com/presentation/d/1lJjnF00vz3-gPmPiG_fDHea3KGzQDuTpSEHj1W-evRE/edit?usp=sharing)
+
 ## ❓ Problem Statement
 > Entrepreneurs and Investors face lot of dilemma before starting a startup. As we all know that starting a venture is not an easy task, there are lot of challenges associated with it. To help our investors to overcome this dilemma we have designed this website. We have used various ml model so that they can know beforehand whether the startup they are starting would be beneficial for them or not.
 
