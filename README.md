@@ -12,6 +12,7 @@
 - Using razorpay api in our application.
 - Deciding which model is best for classification as per our need.
 - Creating our own datasets to train our ML models
+- Integrating NLP model with the frontend
 
 ## 💡 features
 - View the history, reviews and growth of the startups on the go.
