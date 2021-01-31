@@ -12,7 +12,7 @@ model=joblib.load("ml-api/startup.pkl")
 loaded_model=pickle.load(open("ml-api/finalized_model.sav","rb"))
 
 @app.route("/success",methods=['POST','GET'])
-def isdbstartups():
+def isdbstartupss():
     data=request.form
 
     if request.method=='POST':
@@ -27,7 +27,7 @@ def isdbstartups():
         return 0
 
 @app.route("/review",methods=['POST','GET'])
-def reviews():
+def reviewss():
     data=request.form
 
     if request.method=='POST':
@@ -54,7 +54,7 @@ def reviews():
 loaded_model=pickle.load(open("ml-api/finalized_model.sav","rb"))
 
 @app.route("/loan",methods=['GET','POST'])
-def home():
+def homes():
     new=''
     if request.method=='POST':
          
