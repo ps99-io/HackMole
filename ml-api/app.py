@@ -12,7 +12,7 @@ model=joblib.load("ml-api/startup.pkl")
 loaded_model=pickle.load(open("ml-api/finalized_model.sav","rb"))
 
 @app.route("/success",methods=['POST','GET'])
-def isdbstartupsss():
+def isdbstartupss():
     data=request.form
 
     if request.method=='POST':
